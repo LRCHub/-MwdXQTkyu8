@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ラブソングがいらない君へ",
+  "base_artist": "カネヨリマサル",
+  "createdAt": "2026-02-08T16:11:40.303772Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ラブソングがいらない君へ",
+      "artist": "カネヨリマサル",
+      "has_synced": false,
+      "path": "select/pl_01_ラブソングがいらない君へ_カネヨリマサル.txt"
+    }
+  ]
+}
